@@ -21,15 +21,13 @@ Other notes:
 The "robot counter" resets for each level. It does not keep a talley of robots for
    your whole playthrough.
 
-I have noticed frame-rate dips on Level 3 when the player jumps. (Rasterizer spikes to 20%)
-    If problem carries over to other levels, please let me know so I can publish an older version.
-
 Feel free to post robot counts or playthrough times for levels on the BA thread, if
    you like a little competition.
 
 Due to the difficulty of the game, all levels are accessable from the main menu.
 
-"Quit blender" is bound to "F4" due to a mixup between the gamepad "Start" button, and a keyboard sensor set to "Esc".
+If Steam is running in the background, you may eperience severe frame drops and unwanted
+    behavior from your gamepad.
 
 
 
